@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shra's first post"
+date: 2020-12-01
 ---
 # Post Zero
 Hello!!
